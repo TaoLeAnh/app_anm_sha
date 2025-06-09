@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "accounts": {
+    "5f4e7116-3730-4519-b63b-fad7d7740b83": {
+      "service": "Facabook Account",
+      "username": "leanhtao2004@gmail.com",
+      "password_hash": "67d579b2e05716cc5417dc700851d838874f34971f50d4c76bfe6028cec929d7",
+      "encrypted_password": "Z0FBQUFBQm9SdTBXNmJpZVFPbV9PakNBRWRBeGR3a0htSzJUZ1c4MTJkNE50bUJqYzBZX2ptaDBScDAtR3FrTkNYWHRCMWJpbVZ3SS1HV1pYbzVzbXVDb1pWUlN3TVVuNWc9PQ==",
+      "salt": "kHDc/Bl7BArYKvWyL10hPP88BrrgrdSimPBnm+veF68=",
+      "url": "https://facebook.com",
+      "notes": "",
+      "category": "Social Media",
+      "created_date": "2025-06-09 21:17:59",
+      "modified_date": "2025-06-09 21:17:59"
+    }
+  },
+  "categories": [
+    "Social Media",
+    "Email",
+    "Banking",
+    "Work",
+    "Personal",
+    "Shopping",
+    "Entertainment",
+    "Other"
+  ],
+  "settings": {
+    "auto_backup": true,
+    "session_timeout": 1800,
+    "clipboard_clear_time": 30
+  }
+}

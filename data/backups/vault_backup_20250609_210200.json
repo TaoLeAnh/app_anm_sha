@@ -1,0 +1,42 @@
+{
+  "version": "1.0",
+  "accounts": {
+    "f8446c45-bcad-46fd-9ed8-a4390a7a664c": {
+      "service": "Facebook Account",
+      "username": "leanhtao@2004@gmail.com",
+      "password_hash": "iSouc8TrUzxhJIvwwQkdafHmH1nWqDe86e1xmqw/CTQ=",
+      "salt": "SrtjQnRIWqkg1P52VPVrMO9wrCuJd5IkpvLjtUm4dVU=",
+      "url": "https//facebook.com",
+      "notes": "",
+      "category": "Social Media",
+      "created_date": "2025-06-09 20:44:31",
+      "modified_date": "2025-06-09 20:48:44"
+    },
+    "5c831d00-3423-4897-a29e-e83f77c0921f": {
+      "service": "Tiktok Account",
+      "username": "leanhtao1811@gmail.com",
+      "password_hash": "+UHdATik67yV8RNWZ2sfEOOKJPvGoHxDNxaSMfV5EVw=",
+      "salt": "9LTO5DlwmpHfF3wfIJxHKHSttQ5KJKsX55Dn4EP5LCQ=",
+      "url": "https//tiktok.com",
+      "notes": "",
+      "category": "Entertainment",
+      "created_date": "2025-06-09 20:47:35",
+      "modified_date": "2025-06-09 20:47:35"
+    }
+  },
+  "categories": [
+    "Social Media",
+    "Email",
+    "Banking",
+    "Work",
+    "Personal",
+    "Shopping",
+    "Entertainment",
+    "Other"
+  ],
+  "settings": {
+    "auto_backup": true,
+    "session_timeout": 1800,
+    "clipboard_clear_time": 30
+  }
+}

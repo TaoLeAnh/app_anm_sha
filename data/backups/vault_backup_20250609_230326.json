@@ -1,0 +1,44 @@
+{
+  "version": "1.0",
+  "accounts": {
+    "5f4e7116-3730-4519-b63b-fad7d7740b83": {
+      "service": "Facabook Account",
+      "username": "leanhtao2004@gmail.com",
+      "password_hash": "67d579b2e05716cc5417dc700851d838874f34971f50d4c76bfe6028cec929d7",
+      "encrypted_password": "Z0FBQUFBQm9SdTBXNmJpZVFPbV9PakNBRWRBeGR3a0htSzJUZ1c4MTJkNE50bUJqYzBZX2ptaDBScDAtR3FrTkNYWHRCMWJpbVZ3SS1HV1pYbzVzbXVDb1pWUlN3TVVuNWc9PQ==",
+      "salt": "kHDc/Bl7BArYKvWyL10hPP88BrrgrdSimPBnm+veF68=",
+      "url": "https://facebook.com",
+      "notes": "",
+      "category": "Social Media",
+      "created_date": "2025-06-09 21:17:59",
+      "modified_date": "2025-06-09 21:17:59"
+    },
+    "7bc5ebd9-d03c-409e-9c87-6a623f281b26": {
+      "service": "Tiktok Account",
+      "username": "leanhtao18@gmail.com",
+      "password_hash": "2d4b4612d45b23a613adf538c002f30a82ca784fb93669affacf89eb78c05704",
+      "encrypted_password": "Z0FBQUFBQm9SdjBJcXo3Nm0tZ2JfbXh3M1pMaW9wM1N2Znk4UFVqUVdEcGRoYXBraF9DeVBNNlRjSmY5c3dKbEdhX2FoN0wtWUtmWGJ6ZU9pQ2xhbmIwRi16VkM4ZTc3RUE9PQ==",
+      "salt": "F/ru30RhmKX0GPNIn1SsJhJ85u8SEQKzJy8bDtUZ+Uk=",
+      "url": "https://tiktok.com",
+      "notes": "",
+      "category": "Entertainment",
+      "created_date": "2025-06-09 22:26:00",
+      "modified_date": "2025-06-09 22:26:00"
+    }
+  },
+  "categories": [
+    "Social Media",
+    "Email",
+    "Banking",
+    "Work",
+    "Personal",
+    "Shopping",
+    "Entertainment",
+    "Other"
+  ],
+  "settings": {
+    "auto_backup": true,
+    "session_timeout": 1800,
+    "clipboard_clear_time": 30
+  }
+}

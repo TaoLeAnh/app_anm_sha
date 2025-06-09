@@ -1,0 +1,7 @@
+service,username,password,url,notes,category
+Facebook,user@example.com,MySecurePass123!,https://facebook.com,Personal social media account,Social Media
+Gmail,user@example.com,AnotherPass456@,https://gmail.com,Primary email account,Email
+Bank of America,john.doe,SecureBankPass789#,https://bankofamerica.com,Main checking account,Banking
+Netflix,user@example.com,MoviePass321$,https://netflix.com,Streaming service subscription,Entertainment
+GitHub,johndoe,DevPassword999%,https://github.com,Development platform account,Work
+Amazon,user@example.com,ShopPass654^,https://amazon.com,Online shopping account,Shopping 
